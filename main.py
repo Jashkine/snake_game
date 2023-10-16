@@ -1,6 +1,4 @@
-#Soni Kumari
-#21230
-#sonikumari@iisc.ac.in
+
 
 
 """
